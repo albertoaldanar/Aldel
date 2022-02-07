@@ -1,0 +1,12 @@
+{
+    "admin": {
+        "cambiarFoto": "Cambiar foto", 
+        "datosPersonales": "Datos personales",
+        "intereses": "Intereses",
+        "cerrarSesion": "Cerrar Sesión"
+    }, 
+    "Inicio":{
+        "balance": "Balance",
+        "buscar": "Buscar contacto"
+    }
+}

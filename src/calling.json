@@ -1,0 +1,17 @@
+{
+    "tipo_llamada": 0, 
+    "estatus": 0, 
+    "consulta_id": 20,
+    "usuario_llamando": {
+        "id": 1, 
+        "nombre": "Alberto", 
+        "apellido_paterno": "Aldana", 
+        "foto_perfil": "https://gjreoigjeojrgerg.com"
+    }, 
+    "usuario_recibiendo_llamada": {
+        "id": 1, 
+        "nombre": "David", 
+        "apellido_paterno": "Aldana", 
+        "foto_perfil": "https://gjreoigjeojrgerg.com"
+    } 
+}
